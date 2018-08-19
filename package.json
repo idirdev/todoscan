@@ -1,0 +1,29 @@
+{
+  "name": "@idirdev/todoscan",
+  "version": "2.0.0",
+  "description": "Scan source code for TODO/FIXME/HACK/XXX/NOTE comments and generate reports.",
+  "main": "src/index.js",
+  "bin": {
+    "todoscan": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/todoscan.git"
+  },
+  "keywords": [
+    "todo",
+    "fixme",
+    "scanner",
+    "comments",
+    "code-quality",
+    "cli"
+  ],
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
