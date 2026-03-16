@@ -25,5 +25,9 @@
   ],
   "engines": {
     "node": ">=16.0.0"
+  },
+  "homepage": "https://github.com/idirdev/todoscan",
+  "bugs": {
+    "url": "https://github.com/idirdev/todoscan/issues"
   }
 }
